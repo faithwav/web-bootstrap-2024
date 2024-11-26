@@ -8,6 +8,11 @@ html{
     font-weight: bold;
 }
 
+.active{
+    font-weight: bold;
+    background-color: rgba(216, 216, 216, 0.479);
+}
+
 /* header */
 header{
     position: fixed;
